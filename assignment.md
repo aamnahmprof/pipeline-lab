@@ -4,3 +4,8 @@
 
 This run was triggered when the ci.yml file was pushed, so it was indirectly triggered by me.
 
+**My Prediction of Which Test Would Fail:** test_boundary_exactly_24_hours_is_free() - **Was I Right?:** 
+
+**Red Run Screenshot:**
+
+**Green-Again Screenshot:**
